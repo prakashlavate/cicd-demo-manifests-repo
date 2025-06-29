@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: pldockerhub7466/cicd-e2e:32
+        image: pldockerhub7466/cicd-e2e:8
         ports:
         - containerPort: 8000
